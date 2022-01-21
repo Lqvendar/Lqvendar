@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! My name is Lavender.
+Sometimes a JavaCord Discord bot developer.
+I am currently working on a carry logging bot and (attempting) a public moderation bot with [@plun1331](https://github.com/plun1331).
 
-<!--
-**Lqvendar/Lqvendar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A cool place I make Discord bots for:
+- [Skyblock Central](https://discord.gg/AFcYCj5kJR)
 
-Here are some ideas to get you started:
+## A little bit about me
+- Pronouns: She/her
+- Goals: Striving to learn more about coding
+- How to reach me: lqvendar@gmail.com
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Github Stats
+![Lav's GitHub stats](https://github-readme-stats.vercel.app/api?username=lqvendar&count_private=true&theme=material-palenight)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lqvendar&theme=material-palenight&show_icons=true&layout=compact&count_private=true)
