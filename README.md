@@ -1,6 +1,6 @@
 # Hi there! My name is Lavender.
 Sometimes a JavaCord Discord bot developer.
-I am currently working on a carry logging bot and (attempting) a public moderation bot with [@plun1331](https://github.com/plun1331).
+I am currently working on a custom SMP and (attempting) a public moderation bot with [@plun1331](https://github.com/plun1331).
 
 A cool place I make Discord bots for:
 - [Skyblock Central](https://discord.gg/AFcYCj5kJR)
