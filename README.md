@@ -4,6 +4,7 @@ I am currently working on a Aether SMP and (attempting) a public moderation bot 
 
 A cool place I make Discord bots for:
 - [Aether Network](https://discord.gg/AFcYCj5kJR)
+
 Aether Network:
 - SMP: play.aether-mc.net
 - [Website](https://aether-mc.net)
