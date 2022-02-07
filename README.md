@@ -1,5 +1,5 @@
 # Hi there! My name is Lavender.
-Sometimes a JavaCord Discord bot developer.
+Sometimes a Java developer.
 I am currently working on a Aether SMP and (attempting) a public moderation bot with [@plun1331](https://github.com/plun1331).
 
 A cool place I make Discord bots for:
