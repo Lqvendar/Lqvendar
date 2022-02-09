@@ -1,12 +1,12 @@
 # Hi there! My name is Lavender.
 Sometimes a Java developer.
-I am currently working on a Aether SMP and (attempting) a public moderation bot with [@plun1331](https://github.com/plun1331).
+I am currently working on Aether Network SMP and (attempting) a public moderation bot with [@plun1331](https://github.com/plun1331).
 
 A cool place I make Discord bots for:
 - [Aether Network](https://discord.gg/AFcYCj5kJR)
 
 Aether Network:
-- SMP: play.aether-mc.net
+- SMP: **play.aether-mc.net**
 - [Website](https://aether-mc.net)
 - [Store](https://store.aether-mc.net)
 
