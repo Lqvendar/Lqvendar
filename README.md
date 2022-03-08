@@ -4,8 +4,10 @@ I am currently working on web development and personal java projects.
 
 
 ## Previous work:
-- [Aether Network](https://aether-mc.net) (closed)
 - [SMP] play.aether-mc.net
+- [Aether Network](https://aether-mc.net) (closed)
+- [private] Stock bot
+- [private] Moderation bot
 
 
 ## A little bit about me
