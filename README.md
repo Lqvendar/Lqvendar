@@ -3,7 +3,7 @@ Sometimes a developer.
 I am currently working on web development and personal java projects.
 
 
-Previous work:
+## Previous work:
 - [Aether Network](https://aether-mc.net) (closed)
 - [SMP] play.aether-mc.net
 
