@@ -3,7 +3,9 @@ Sometimes a developer.
 I am currently working on web development and personal java projects.
 
 
-## Previous work:
+## Projects:
+- [Current] SMP
+- [Current] SMP Applications Bot
 - [SMP] play.aether-mc.net
 - [Aether Network](https://aether-mc.net) (closed)
 - [private] Stock bot
