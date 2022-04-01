@@ -4,8 +4,9 @@ I am currently working on web development and personal java projects.
 
 
 ## Projects:
+- [personal] Website
 - [Current] SMP
-- [Current] SMP Applications Bot
+- [private] SMP Applications Bot (closed)
 - [SMP] play.aether-mc.net
 - [Aether Network](https://aether-mc.net) (closed)
 - [private] Stock bot
