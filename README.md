@@ -5,7 +5,6 @@ I am currently working on web development and personal java projects.
 
 ## Projects:
 - [Personal] Website
-- [Current] SMP
 - [private] SMP Applications Bot (closed)
 - [SMP] play.aether-mc.net
 - [Aether Network](https://aether-mc.net) (closed)
