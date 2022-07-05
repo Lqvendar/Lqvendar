@@ -9,8 +9,7 @@ I am currently working on web development and personal java projects.
 - [private] SMP Applications Bot (closed)
 - [SMP] play.aether-mc.net
 - [Aether Network](https://aether-mc.net) (closed)
-- [private] Stock bot
-- [private] Moderation bot
+- [private] Fiverr bots
 
 
 ## A little bit about me
